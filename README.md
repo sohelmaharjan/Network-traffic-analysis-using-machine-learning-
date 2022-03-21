@@ -9,3 +9,15 @@ The objectives of this project are pointed out below:
 ●	Evaluate and make any changes necessary in the current model regarding optimization and performance.  
 ●	Evaluate the models on real-time data generated between machines and test the models based on the results
 
+**Network traffic analysis Workflow **
+
+![image](https://user-images.githubusercontent.com/41712161/159209632-95f896bd-4a2c-46c4-b1d9-5dacb58fdcb1.png) 
+
+**Using machine learning to train Data **
+
+![image](https://user-images.githubusercontent.com/41712161/159209839-45c20263-4231-43ad-8331-16081c938aec.png)
+
+
+
+
+
